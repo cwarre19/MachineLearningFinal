@@ -1,2 +1,2 @@
 # ML_Final
-This is the repo for our ML class final project
+Repo for final project in Machine Learning class at JHU

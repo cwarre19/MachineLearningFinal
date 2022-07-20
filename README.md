@@ -1,2 +1,2 @@
 # ML_Final
-This is the repo for our ML class final project
+here is the notebook and raw dataset
